@@ -18,3 +18,4 @@ if __name__ == '__main__':
     print(nivaldo.idade)
     for filho in nivaldo.filhos:
         print(filho.nome)
+    print(nivaldo.__dict__)
