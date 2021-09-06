@@ -73,6 +73,7 @@ if __name__ == '__main__':
     print("Freando o carro...")
     carro.frear()
     print("A velocidade atual do carro é: ", carro.motor.velocidade)
+    print()
     print("Acelerando o carro uma unidade...")
     carro.acelerar()
     print("A velocidade atual do carro é: ", carro.motor.velocidade)
