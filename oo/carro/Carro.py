@@ -1,5 +1,5 @@
-from oo.Direcao import Direcao
-from oo.Motor import Motor
+from oo.carro.Direcao import Direcao
+from oo.carro.Motor import Motor
 
 
 class Carro:
